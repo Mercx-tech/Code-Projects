@@ -1,0 +1,34 @@
+ # Arquivos e Pastas de Sistema/Usuário
+.anaconda/
+.android/
+.bash_history
+.conda/
+.condarc
+.config/
+.continuum/
+.emulator_console_auth_token
+.expo/
+.gitconfig
+.gradle/
+.idea/
+.lesshst
+.skiko/
+.vscode/
+AndroidStudioProjects/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG*
+ntuser.ini
+
+# Pastas Comuns de Dependências de Projetos
+node_modules/
